@@ -1,6 +1,8 @@
+
+
 streamlit
 cvzone
-opencv-python
+opencv-python-headless
 mediapipe
 Pillow
 google-generativeai
