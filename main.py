@@ -14,7 +14,7 @@ st.image('MathGestures.png')
 st.title("AI Math Problem Solver")
 
 # AI configuration
-genai.configure(api_key="AIzaSyC6_7-hxVqljm-FD8-J6DCPRZsrQO7SzJM")
+genai.configure(api_key="")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Feature 1: Hand Gesture Recognition setup
